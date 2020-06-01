@@ -8,9 +8,9 @@
         <div class="row">
           <div class="col-lg-12">
             <div class="breadcrumb-text product-more">
-              <a href="./home.html">
+              <router-link to="/">
                 <i class="fa fa-home"></i> Home
-              </a>
+              </router-link>
               <span>Detail</span>
             </div>
           </div>
